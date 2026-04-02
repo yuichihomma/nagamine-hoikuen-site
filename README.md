@@ -102,9 +102,9 @@ docker ps
 ```bash
 cat sql/wordpress.sql | docker exec -i <mysqlコンテナ名> mysql -u root -prootpass wordpress
 
-※ <mysqlコンテナ名> は docker ps で表示される MySQL コンテナ名に置き換えてください。
-
 ```
+
+※ <mysqlコンテナ名> は docker ps で表示される MySQL コンテナ名に置き換えてください。
 
 ブラウザで以下にアクセスしてください。
 http://localhost:8080
