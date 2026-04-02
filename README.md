@@ -81,7 +81,7 @@ http://localhost:8080/wp-admin/
 ### 起動手順
 
 ```bash
-git clone https://github.com/〇〇/〇〇.git
+git clone https://github.com/yuichihomma/nagamine-hoikuen-site.git
 cd nagamine-hp
 docker-compose up -d --build
 
