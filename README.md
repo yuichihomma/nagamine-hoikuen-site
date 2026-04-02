@@ -123,7 +123,7 @@ http://localhost:8080
 
  ## スクリーンショット
 
- ###　トップページ
+ ### トップページ
  ![トップページ](./wp-content/themes/nagamine-theme/docs/images/長峰保育園のトップページ.png)
 
  ### ブログ
