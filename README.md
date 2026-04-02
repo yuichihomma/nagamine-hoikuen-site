@@ -1,4 +1,4 @@
-# 長峰保育園ホームページ制作（WordPressテーマ開発：ポートフォリオ）
+# 長峰保育園ホームページ制作（WordPressテーマ開発 / Docker環境構築）
 
 ## 概要
 
@@ -8,6 +8,7 @@ WordPressを導入しリニューアルを想定して制作しました。
 
 保護者の年齢を20代〜30代と想定し、PC版だけでなく、スマホ版も実装しました。
 お知らせとBLOGの一般公開情報と、「行事写真」や「園だより」といった保護者向けに分けた設計をしています。
+Docker環境で構築しており、クローン後すぐに動作確認が可能です。
 
 ## 開発経緯
 
@@ -119,6 +120,17 @@ http://localhost:8080
  テスト用アカウント（閲覧用）
 - ユーザー名：nagamine001
 - パスワード：abc123
+
+ ## スクリーンショット
+
+ ###　トップページ
+ ![トップページ](./wp-content/themes/nagamine-theme/docs/images/長峰保育園のトップページ.png)
+
+ ### ブログ
+ ![ブログ画面](./wp-content/themes/nagamine-theme/docs/images/ブログ.png)
+
+ ### 管理画面
+ ![管理画面](./wp-content/themes/nagamine-theme/docs/images/管理画面.png)
 
  ## 工夫した点
 
