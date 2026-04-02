@@ -1,0 +1,12 @@
+# WordPress core
+wp-admin/
+wp-includes/
+
+# uploads（画像とか）
+wp-content/uploads/
+
+# OS
+.DS_Store
+
+# env
+.env
