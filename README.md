@@ -82,7 +82,7 @@ http://localhost:8080/wp-admin/
 
 ```bash
 git clone https://github.com/yuichihomma/nagamine-hoikuen-site.git
-cd nagamine-hp
+cd nagamine-hoikuen-site
 docker-compose up -d --build
 
 ```
