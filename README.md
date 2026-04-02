@@ -83,7 +83,26 @@ http://localhost:8080/wp-admin/
 ```bash
 git clone https://github.com/yuichihomma/nagamine-hoikuen-site.git
 cd nagamine-hoikuen-site
-docker-compose up -d --build
+docker compose up -d --build
+
+```
+
+本リポジトリには表示確認用データを含んだDBダンプを同梱しています。
+コンテナ起動後、以下のコマンドを実行してください。
+## DBインポート手順
+
+まず MySQL コンテナ名を確認してください。
+
+```bash
+docker ps
+
+```
+その後、以下を実行してください。
+
+```bash
+cat sql/wordpress.sql | docker exec -i <mysqlコンテナ名> mysql -u root -prootpass wordpress
+
+※ <mysqlコンテナ名> は docker ps で表示される MySQL コンテナ名に置き換えてください。
 
 ```
 
