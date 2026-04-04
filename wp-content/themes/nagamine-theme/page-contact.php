@@ -9,7 +9,7 @@
 
     <section class="contact-form-section fade-in">
         <div class="inner">
-            <?php echo do_shortcode('[contact-form-7 id="906dab2" title="コンタクトフォーム 1"]'); ?>
+            <?php echo do_shortcode('[contact-form-7 id="906ddb2" title="お問い合わせ"]'); ?>
         </div>
     </section>
 </main>
