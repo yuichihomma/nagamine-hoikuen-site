@@ -96,9 +96,9 @@ http://localhost:8080/wp-admin/
 　
 ### スクリーンショット
 
-![ユーザー画面](/docs/images/お問い合わせ.png)(/docs/images/問い合わせ画面下.png)
+![ユーザー画面](.wp-content/themes/nagamine-theme/docs/images/お問い合わせ.png)(/docs/images/問い合わせ画面下.png)
 
-![管理画面](/docs/images/お問い合わせ管理画面.png)
+![管理画面](.wp-content/themes/nagamine-theme/docs/images/お問い合わせ管理画面.png)
 
 - 2. Advanced Custom Fields
  - 概要
@@ -117,9 +117,9 @@ http://localhost:8080/wp-admin/
  - 管理画面では入力項目を最小限に抑え、非エンジニアでも更新しやすい構成にしています
 
 ### スクリーンショット
-![管理画面](/docs/images/Advanced Custom Fields管理画面.png)
+![管理画面](.wp-content/themes/nagamine-theme/docs/images/Advanced Custom Fields管理画面.png)
 
-![ユーザー画面](/docs/images/Advanced Custom Fields　ユーザー視点.png)
+![ユーザー画面](.wp-content/themes/nagamine-theme/docs/images/Advanced Custom Fields　ユーザー視点.png)
 
 - 3 Admin Menu Editor
  - 概要
@@ -129,7 +129,7 @@ http://localhost:8080/wp-admin/
   非エンジニアでも利用しやすいように、管理画面のメニュー構成を整理し、必要な項目に素早くアクセスできるようにしました
 
 ### スクリーンショット
- ![管理画面](/docs/images/Admin.menu Editor管理画面.png)
+ ![管理画面](.wp-content/themes/nagamine-theme/docs/images/Admin.menu Editor管理画面.png)
 
  - 4 Members
   - 概要
@@ -148,7 +148,7 @@ http://localhost:8080/wp-admin/
    - シンプルな権限設計にすることで、非エンジニアでも扱いやすい構成にしている
 
 ### スクリーンショット
-![管理画面](/docs/images/membersの管理画面.png)
+![管理画面](.wp-content/themes/nagamine-theme/docs/images/membersの管理画面.png)
 
 - 5.WP Mail SMTP
  - 概要
@@ -158,9 +158,9 @@ http://localhost:8080/wp-admin/
  お問い合わせや欠席・遅刻が実際に送信できているかどうか確認するためにMailhogで確認したいため導入いたしました。
 
 ### スクリーンショット
-![管理画面](/docs/images/WPmail SMTPの管理画面.png)
+![管理画面](.wp-content/themes/nagamine-theme/docs/images/WPmail SMTPの管理画面.png)
 
-![Mailhogでのメッセージ](/docs/images/mailhogの受信確認.png)
+![Mailhogでのメッセージ](.wp-content/themes/nagamine-theme/docs/images/mailhogの受信確認.png)
 
 - 6.Envira Gallery - Image Photo Gallery, Albums, Video Gallery, Slideshows & More
  - 概要
@@ -173,9 +173,9 @@ http://localhost:8080/wp-admin/
   - 写真を一覧で見やすく表示することで、スマートフォンでも直感的に閲覧できるように設計
 
   ### スクリーンショット
-![管理画面](/docs/images/EnviraGallery.png)
+![管理画面](.wp-content/themes/nagamine-theme/docs/images/EnviraGallery.png)
 
-![ユーザー視点](/docs/images/Envira Galleryユーザー目線.png)
+![ユーザー視点](.wp-content/themes/nagamine-theme/docs/images/Envira Galleryユーザー目線.png)
 
 - 7.EWWW Image Optimizer
  - 概要
@@ -195,7 +195,7 @@ http://localhost:8080/wp-admin/
   - トップページにタイトルとメタディスクリプションの記載
 
 ###　スクリーンショット
-![管理画面](/docs/images/Yoast SEO管理画面.png)
+![管理画面](.wp-content/themes/nagamine-theme/docs/images/Yoast SEO管理画面.png)
 
 ## 環境構築
 
