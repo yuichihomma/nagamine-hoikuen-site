@@ -25,7 +25,7 @@ if(!is_user_logged_in()) {wp_redirect(home_url('/login'));exit;} get_header();?>
           <p>行事写真</p>
         </a>
 
-        <a href="<?php echo home_url('/schedule-comingsoon'); ?>" class="parents-card">
+        <a href="<?php echo get_template_directory_uri(); ?>/docs/年間予定表ダミー.pdf" class="parents-card" download>
           <p>年間予定表</p>
         </a>
 
