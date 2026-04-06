@@ -89,9 +89,9 @@ http://localhost:8080/wp-admin/
   →今後は在園者だけでなく、一般の方にも情報や行事の発信もできるようになります。
 
  - デモ動画 🎥
-お知らせ画面の管理画面とユーザー画面
+一覧でお知らせの最新の確認と詳細をクリックすることですべて確認できます。また、詳細の画面右に最新のお知らせを掲載することで他のお知らせをすぐに確認できます。
 
-[▶ 動画を見る](https://github.com/user-attachments/assets/7c4e14ee-0ab5-431c-8e91-dc295eec06db)
+[▶ 動画を見る](https://github.com/user-attachments/assets/5340e027-cd2e-4d52-865b-4b4be37707d0)
 
 
 
