@@ -5,7 +5,7 @@
   <div class="top-bar-inner">
     <div class="top-logo">
       <img
-        src="<?php echo get_template_directory_uri(); ?>/docs/長峰保育園のロゴ.png"
+        src="<?php echo get_template_directory_uri(); ?>/docs/nagamine-logo.png"
         alt="長峰保育園ロゴ">
       <span>長峰保育園</span>
     </div>
@@ -13,7 +13,7 @@
     <div class="top-tel">
       <a href="tel:0258463463" class="tel-link" aria-label="長峰保育園に電話しますか？">
         <img 
-        src="<?php echo get_template_directory_uri(); ?>/docs/受話器.png">
+        src="<?php echo get_template_directory_uri(); ?>/docs/telephone-receiver-logo.png">
         <span class="tel-text">TEL：0258-46-3463</span>
       </a>
 
@@ -32,18 +32,18 @@
   <div class="hero-slider">
     <div class="slide active">
   <img
-    src="<?php echo get_template_directory_uri(); ?>/docs/長峰保育園の入り口.jpg"
+    src="<?php echo get_template_directory_uri(); ?>/docs/nagamine-entrance.jpg"
     alt="長峰保育園の入り口">
   </div>
 
   <div class="slide">
   <img
-    src="<?php echo get_template_directory_uri(); ?>/docs/保育園紹介ダミー１.webp"
+    src="<?php echo get_template_directory_uri(); ?>/docs/header-photo-dummy.webp"
     alt="長峰保育園の紹介">
   </div>
   <div class="slide">
   <img
-    src="<?php echo get_template_directory_uri(); ?>/docs/保育園ヘッダーダミー２.webp"
+    src="<?php echo get_template_directory_uri(); ?>/docs/header-photo-dummy-2.webp"
     alt="長峰保育園の紹介">
   </div>
   </div>

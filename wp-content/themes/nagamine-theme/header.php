@@ -15,7 +15,7 @@
       <a href="<?php echo home_url('/'); ?>" class="logo-link">
         <img
           class="header-logo"
-          src="<?php echo get_template_directory_uri(); ?>/docs/長峰保育園のヘッダーロゴ（イメージ）.png"
+          src="<?php echo get_template_directory_uri(); ?>/docs/nagamine-logo.png"
           alt="">
         <h1 class="site-title">長峰保育園</h1>
         

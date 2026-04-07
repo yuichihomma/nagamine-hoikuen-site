@@ -6,16 +6,22 @@ Version: 1.0.0
 /*fonts*/
 @font-face {
   font-family: 'HackGen';
-  src: url('/wp-content/themes/nagamine-theme/fonts/HackGen-Regular.ttf') format('truetype');
+  src: url('wp-content/themes/nagamine-theme/fonts/HackGen-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
+}
+
+@font-face {
+  font-family: 'HackGen';
+  src: url('fonts/HackGen-Bold.woff2') format('woff2');
+  font-weight: 700;
 }
 
 /* 全体　*/
 body {
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)),
-    url("./docs/保育園サイト背景画像.webp");
+    url("./docs/background.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

@@ -40,7 +40,7 @@
                     <p>子どもたちが安心して過ごせる環境の中で、元気に遊び、のびのびと体を動かすことを大切にしています。</br> 日々の生活や遊びを通して、心も体も健やかに成長できるよう見守っています。</p>
                 </div>
                 <div class="goal-image">
-                    <img src="<?php echo get_template_directory_uri(); ?>/docs/明るく元気な子供ダミーデータ.jpg" alt="">
+                    <img src="<?php echo get_template_directory_uri(); ?>/docs/a-cheerful-and-energetic-child.jpg" alt="">
                 </div>
             </div>
 
@@ -50,7 +50,7 @@
                     <p>友だちや先生との関わりの中で、思いやりや優しさの気持ちを育てます。</br>さまざまな経験を通して、感性豊かで素直な心を大切にした保育を行っています。</p>
                 </div>
                 <div class="goal-image">
-                    <img src="<?php echo get_template_directory_uri(); ?>/docs/手を繋ぐダミーデータ.jpeg" alt="">
+                    <img src="<?php echo get_template_directory_uri(); ?>/docs/hold-hands.jpeg" alt="">
                 </div>
             </div>
 
@@ -59,7 +59,7 @@
                     <h3>よく考え意欲的に行動する子供</h3>
                     <p>子どもたちが自分で考え、挑戦する気持ちを大切にしています。</br> 興味や関心を広げながら、主体的に行動できる力を育てていきます。</p>
                 </div>
-                <div class="goal-image"><img src="<?php echo get_template_directory_uri(); ?>/docs/よく考えて行動する子供ダミーデータ.jpg" alt=""></div>
+                <div class="goal-image"><img src="<?php echo get_template_directory_uri(); ?>/docs/a-thoughtful-child.jpg" alt=""></div>
             </div>
 
         </div>

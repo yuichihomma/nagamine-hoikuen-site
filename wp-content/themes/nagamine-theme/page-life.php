@@ -58,37 +58,37 @@
 
           <div class="event-list">
                 <div class="event-item">
-                    <div class="event-image"><img src="<?php echo get_template_directory_uri(); ?>/docs/メロディオン.JPG" alt=""></div>
+                    <div class="event-image"><img src="<?php echo get_template_directory_uri(); ?>/docs/melodion.JPG" alt=""></div>
                     <h3>メロディオン</h3>
                     <p>音楽の先生が来園してみんなで演奏します</p>
                 </div>
 
                 <div class="event-item">
-                    <div class="event-image"><img src="<?php echo get_template_directory_uri(); ?>/docs/プール遊び.JPG" alt=""></div>
+                    <div class="event-image"><img src="<?php echo get_template_directory_uri(); ?>/docs/pool-play.JPG" alt=""></div>
                     <h3>プール遊び</h3>
                     <p>顔つけ、バタ足、ビート板...年齢に合わせて行います</p>
                 </div>
 
                 <div class="event-item">
-                    <div class="event-image"><img src="<?php echo get_template_directory_uri(); ?>/docs/チャイルドクッキング.JPG" alt=""></div>
+                    <div class="event-image"><img src="<?php echo get_template_directory_uri(); ?>/docs/child-cooking.JPG" alt=""></div>
                     <h3>チャイルドクッキング</h3>
                     <p>みんなでカレー、豚汁作ります。年長は先生のもと、包丁を使います</p>
                 </div>
 
                 <div class="event-item">
-                    <div class="event-image"><img src="<?php echo get_template_directory_uri(); ?>/docs/保育園 誕生日会.webp" alt=""></div>
+                    <div class="event-image"><img src="<?php echo get_template_directory_uri(); ?>/docs/birthday-dummy.webp" alt=""></div>
                     <h3>誕生日会</h3>
                     <p>誕生月の子をみんなでお祝いします</p>
                 </div>
 
                 <div class="event-item">
-                    <div class="event-image"><img src="<?php echo get_template_directory_uri(); ?>/docs/保育園 避難訓練.jpg" alt=""></div>
+                    <div class="event-image"><img src="<?php echo get_template_directory_uri(); ?>/docs/evacuation-drill.jpg" alt=""></div>
                     <h3>避難訓練</h3>
                     <p>みんなで逃げます</p>
                 </div>
 
                 <div class="event-item">
-                    <div class="event-image"><img src="<?php echo get_template_directory_uri(); ?>/docs/保育園 なわとび大会.webp" alt=""></div>
+                    <div class="event-image"><img src="<?php echo get_template_directory_uri(); ?>/docs/jump-rope-competition.webp" alt=""></div>
                     <h3>なわとび大会</h3>
                     <p>年中から目標の回数を決めて挑戦します</p>
                 </div>
