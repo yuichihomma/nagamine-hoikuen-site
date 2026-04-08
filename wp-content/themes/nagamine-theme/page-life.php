@@ -3,7 +3,7 @@
 <main class="life-page">
     <!-- タイトル -->
     <section class="section-life fade-in">
-        <div class="inner">
+        <div class="life-page-inner">
             <h1 class="page-life-title">園の生活</h1>
         </div>
     </section>
@@ -161,7 +161,7 @@
         <h3 class="month-title">11月</h3>
         <ul class="month-event-list">
           <li>音楽指導</li>
-          <li>チャイルドクッキング</li>
+          <li>チャイルド<br>クッキング</li>
         </ul>
       </div>
 
