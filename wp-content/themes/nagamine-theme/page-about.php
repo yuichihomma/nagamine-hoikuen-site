@@ -3,7 +3,7 @@
 <main class="about-page">
     <!--　タイトル　-->
 <section class="about-page-title fade-in">
-    <h1>長峰保育園について</h1>
+    <h1 class="about-page-title">長峰保育園について</h1>
 </section>
     
 <!--　園の説明 -->

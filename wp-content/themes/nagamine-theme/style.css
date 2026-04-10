@@ -495,7 +495,11 @@ a:hover {
 長峰保育園について 
 
 ========== */
-
+.about-page-title {
+  padding: 25px;
+  font-size: 50px;
+  text-align: center;
+}
 .page-title {
   font-size: 28px;
   color: #f097be;
